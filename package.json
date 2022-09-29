@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-scenery-portfolio",
+  "version": "1.0.0",
+  "description": "NodeJS Animation Scenery Portfilio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plbranson/react-scenery-portfolio.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "cors",
+    "express",
+    "javascript"
+  ],
+  "author": "Patrick L. Branson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/plbranson/react-scenery-portfolio/issues"
+  },
+  "homepage": "https://github.com/plbranson/react-scenery-portfolio#readme"
+}
