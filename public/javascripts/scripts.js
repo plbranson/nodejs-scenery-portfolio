@@ -47,8 +47,8 @@ const animate = () => {
   cloud5.style.bottom = 60 + incrementor * 0.2 + "%";
   cloud5.style.left = 60 + incrementor * 0.16 + "%";
 
-  // The 10 refers to the height of the bottom of 
-  // the sky section. The 10 was added in the CSS file. 
+  // The 10 refers to the height of the bottom of
+  // the sky section. The 10 was added in the CSS file.
   airBalloon.style.bottom = 10 + incrementor * 0.1 + "%";
 
   react.style.left = 26 + incrementor * -1.5 + "%";
